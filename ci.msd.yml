@@ -1,0 +1,10 @@
+schemaVersion: v0.2
+prepare:
+  steps: []
+test:
+  steps: []
+run:
+  app:
+    steps:
+      - name: Start
+        command: yarn run start
